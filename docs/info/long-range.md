@@ -45,6 +45,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 100Km | 2.4G | 50Hz | 2000mW | Wing | No | Snipes | [Link](https://www.youtube.com/watch?v=IjQYLyvai6s) |
 | 43.7Km | 2.4G | 150Hz | 250mW | Wing | No | Slickshot | [Link](https://www.youtube.com/watch?v=Fidq5O3IvZs) |
 | 35Km | 2.4G | 250Hz | 100mW | Wing | No | Snipes | [Link](https://youtu.be/dBmTRhgVcyY) |
+| 32Km | 2.4G | 100Hz | 1000mW | Wing | Yes | WaMPeLT | [Link](https://youtu.be/PTMlnNeT00Q?si=5MLz0jFsA4rL42gp) |
 | 20Km | 2.4G | 150Hz | 100mW | Wing | Yes | Pairan | [Link](https://youtu.be/B9-AItJ9WS0) |
 | 20Km | 2.4G | 50Hz | 250mW | Wing | No | Padcom | [Link](https://www.youtube.com/watch?v=Fu0fHgSrOqw) |
 | 12.2Km | 2.4G | 500Hz | 250mW | Wing | No | Börner | [Link](https://youtu.be/GUUngM6NcAg) |
